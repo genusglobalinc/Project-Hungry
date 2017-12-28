@@ -1,0 +1,21 @@
+//**************************************************************************************************************
+// Author: Jyasi' Davis 
+// Project: Math, Science, and Philosophy || The What, The How, and the Why. My proposal to the
+// Qualitative and Quantitative analysis of the affect of perspective on the Universe.  
+// 
+// Entry #2: Science || How to do What you need to do for The Why. T
+// 
+// This describes the application step:
+//
+// Program Purpose: Mathematically determine the amount of verbs applicable to success principles, and then
+// determine which ones are positive & negative.
+// 
+//**************************************************************************************************************
+
+public class VerbAnalysis
+{
+    public static void main(String[] args)
+    {
+        System.out.println("Testing.");
+    }
+}
