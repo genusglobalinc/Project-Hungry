@@ -1,6 +1,6 @@
 /*Author: Jyasi Davis
  * 
- * Purpose: To test the password security
+ * Purpose: To test receive a message from "Taekwondobro-PC"
  * */
 // Server portion of a client/server stream-socket connection. 
 import java.io.EOFException;
@@ -34,7 +34,7 @@ public class Hungry_coin_server extends JFrame
   private int numLetters = testWord.length();
   
   // set up GUI
-  public Server()
+  public Hungry_coin_server()
   {
     super( "Server" );
     
@@ -199,9 +199,6 @@ public class Hungry_coin_server extends JFrame
     ); // end call to SwingUtilities.invokeLater
   } // end method setTextFieldEditable
   
-  public static void main(String[] args){
-    System.out.println(testWord);
-  }
 } // end class Server
 
 /**************************************************************************
@@ -218,5 +215,3 @@ public class Hungry_coin_server extends JFrame
   * consequential damages in connection with, or arising out of, the       *
   * furnishing, performance, or use of these programs.                     *
   *************************************************************************/
-}
-}
