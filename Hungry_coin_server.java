@@ -199,6 +199,10 @@ public class Hungry_coin_server extends JFrame
     ); // end call to SwingUtilities.invokeLater
   } // end method setTextFieldEditable
   
+  public static void main (String[] args){
+    
+  }
+  
 } // end class Server
 
 /**************************************************************************

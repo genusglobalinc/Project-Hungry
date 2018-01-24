@@ -190,6 +190,10 @@ public class Hungry_coin_client extends JFrame
          } // end anonymous inner class
       ); // end call to SwingUtilities.invokeLater
    } // end method setTextFieldEditable
+   
+   public static void main(String[] args) {
+     
+   }
 } // end class Client
 
 /**************************************************************************
