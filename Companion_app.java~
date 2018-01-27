@@ -9,7 +9,7 @@ import javax.swing.JFrame;
 import java.util.Scanner;
 
 
-public class ClientTest 
+public class Companion_app 
 {
    public static void main( String[] args )
    {
